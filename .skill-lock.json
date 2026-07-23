@@ -6,9 +6,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/vercel-labs/skills.git",
       "skillPath": "skills/find-skills/SKILL.md",
-      "skillFolderHash": "eb6a23305aea6e340d14b9de3766e721f9f4861b",
+      "skillFolderHash": "76a98a285cb0434f3d39e1a873823556330e398b",
       "installedAt": "2026-05-14T10:30:01.905Z",
-      "updatedAt": "2026-06-30T01:24:01.805Z"
+      "updatedAt": "2026-07-13T03:28:06.590Z"
     },
     "find-docs": {
       "source": "upstash/context7",
@@ -42,9 +42,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/heygen-com/hyperframes.git",
       "skillPath": "skills/hyperframes/SKILL.md",
-      "skillFolderHash": "0849de0256d67ab5b2ec75c93a166aa1f7cc5708",
+      "skillFolderHash": "c715d579cfa5dea9b39eff06c86e06ee7b7fefaa",
       "installedAt": "2026-06-12T01:52:17.016Z",
-      "updatedAt": "2026-07-09T06:59:22.778Z"
+      "updatedAt": "2026-07-21T03:55:28.412Z"
     },
     "smart-search": {
       "source": "jackwener/opencli",
@@ -60,9 +60,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/mattpocock/skills.git",
       "skillPath": "skills/productivity/writing-great-skills/SKILL.md",
-      "skillFolderHash": "c84411b360fad91b8756e60fa17fd5b5761422dd",
+      "skillFolderHash": "81d36946d48842f90358d8af54e3cdcc141f8e01",
       "installedAt": "2026-07-06T01:50:45.432Z",
-      "updatedAt": "2026-07-07T02:46:37.058Z"
+      "updatedAt": "2026-07-14T10:58:24.555Z"
     }
   },
   "dismissed": {
