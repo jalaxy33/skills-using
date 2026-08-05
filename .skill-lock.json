@@ -15,9 +15,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/upstash/context7.git",
       "skillPath": "skills/find-docs/SKILL.md",
-      "skillFolderHash": "f1f7597c0575b2c138a551a222f56808a86e16b1",
+      "skillFolderHash": "b635cd66f1414befd36d18646561398de2ddab54",
       "installedAt": "2026-05-20T02:23:33.041Z",
-      "updatedAt": "2026-07-07T02:46:30.674Z"
+      "updatedAt": "2026-07-27T01:38:44.320Z"
     },
     "tavily-search": {
       "source": "tavily-ai/skills",
@@ -42,9 +42,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/heygen-com/hyperframes.git",
       "skillPath": "skills/hyperframes/SKILL.md",
-      "skillFolderHash": "c715d579cfa5dea9b39eff06c86e06ee7b7fefaa",
+      "skillFolderHash": "77fd1f995f47e9cb9ae2eafae10aeedd78044454",
       "installedAt": "2026-06-12T01:52:17.016Z",
-      "updatedAt": "2026-07-21T03:55:28.412Z"
+      "updatedAt": "2026-08-03T04:16:32.059Z"
     },
     "smart-search": {
       "source": "jackwener/opencli",
@@ -63,12 +63,33 @@
       "skillFolderHash": "81d36946d48842f90358d8af54e3cdcc141f8e01",
       "installedAt": "2026-07-06T01:50:45.432Z",
       "updatedAt": "2026-07-14T10:58:24.555Z"
+    },
+    "human-writing": {
+      "source": "KKKKhazix/human-writing",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/KKKKhazix/human-writing.git",
+      "skillPath": "human-writing/SKILL.md",
+      "skillFolderHash": "8af7d1ba121a5e59bb2dd44b15767bf9d6f61617",
+      "installedAt": "2026-08-05T06:31:37.992Z",
+      "updatedAt": "2026-08-05T06:31:37.992Z"
     }
   },
   "dismissed": {
     "findSkillsPrompt": true
   },
   "lastSelectedAgents": [
-    "universal"
+    "amp",
+    "antigravity",
+    "antigravity-cli",
+    "cline",
+    "codex",
+    "cursor",
+    "deepagents",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-code-cli",
+    "opencode",
+    "warp",
+    "zed"
   ]
 }
