@@ -42,9 +42,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/heygen-com/hyperframes.git",
       "skillPath": "skills/hyperframes/SKILL.md",
-      "skillFolderHash": "77fd1f995f47e9cb9ae2eafae10aeedd78044454",
+      "skillFolderHash": "7142bea6c179e84bdf44597e0d5fafd8fee91747",
       "installedAt": "2026-06-12T01:52:17.016Z",
-      "updatedAt": "2026-08-03T04:16:32.059Z"
+      "updatedAt": "2026-08-25T07:58:39.020Z"
     },
     "smart-search": {
       "source": "jackwener/opencli",
@@ -55,23 +55,23 @@
       "installedAt": "2026-06-12T02:04:43.715Z",
       "updatedAt": "2026-06-12T02:04:43.715Z"
     },
-    "writing-great-skills": {
-      "source": "mattpocock/skills",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/mattpocock/skills.git",
-      "skillPath": "skills/productivity/writing-great-skills/SKILL.md",
-      "skillFolderHash": "81d36946d48842f90358d8af54e3cdcc141f8e01",
-      "installedAt": "2026-07-06T01:50:45.432Z",
-      "updatedAt": "2026-07-14T10:58:24.555Z"
-    },
     "human-writing": {
       "source": "KKKKhazix/human-writing",
       "sourceType": "github",
       "sourceUrl": "https://github.com/KKKKhazix/human-writing.git",
       "skillPath": "human-writing/SKILL.md",
-      "skillFolderHash": "8af7d1ba121a5e59bb2dd44b15767bf9d6f61617",
+      "skillFolderHash": "fc6106f433803a95c49dfd8a7d1a2f09af30a772",
       "installedAt": "2026-08-05T06:31:37.992Z",
-      "updatedAt": "2026-08-05T06:31:37.992Z"
+      "updatedAt": "2026-08-07T03:49:25.139Z"
+    },
+    "book-to-skill": {
+      "source": "virgiliojr94/book-to-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/virgiliojr94/book-to-skill.git",
+      "skillPath": "SKILL.md",
+      "skillFolderHash": "7bcfcd5262329f8d57a385903f18a98bc6705e4e",
+      "installedAt": "2026-08-06T09:03:31.114Z",
+      "updatedAt": "2026-08-24T01:33:32.103Z"
     }
   },
   "dismissed": {
