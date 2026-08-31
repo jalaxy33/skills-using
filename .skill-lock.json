@@ -10,24 +10,6 @@
       "installedAt": "2026-05-14T10:30:01.905Z",
       "updatedAt": "2026-07-13T03:28:06.590Z"
     },
-    "find-docs": {
-      "source": "upstash/context7",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/upstash/context7.git",
-      "skillPath": "skills/find-docs/SKILL.md",
-      "skillFolderHash": "b635cd66f1414befd36d18646561398de2ddab54",
-      "installedAt": "2026-05-20T02:23:33.041Z",
-      "updatedAt": "2026-07-27T01:38:44.320Z"
-    },
-    "tavily-search": {
-      "source": "tavily-ai/skills",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/tavily-ai/skills.git",
-      "skillPath": "skills/tavily-search/SKILL.md",
-      "skillFolderHash": "74e6f8996fa49a3ebe8aa8f3dbddc4a2c2b5e5e4",
-      "installedAt": "2026-06-12T00:58:51.642Z",
-      "updatedAt": "2026-06-12T00:58:51.642Z"
-    },
     "edge-tts": {
       "source": "aahl/skills",
       "sourceType": "github",
@@ -63,15 +45,6 @@
       "skillFolderHash": "fc6106f433803a95c49dfd8a7d1a2f09af30a772",
       "installedAt": "2026-08-05T06:31:37.992Z",
       "updatedAt": "2026-08-07T03:49:25.139Z"
-    },
-    "book-to-skill": {
-      "source": "virgiliojr94/book-to-skill",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/virgiliojr94/book-to-skill.git",
-      "skillPath": "SKILL.md",
-      "skillFolderHash": "8a2cae63f0b1d1a3add14fc8b7688ba9cfafd9c4",
-      "installedAt": "2026-08-06T09:03:31.114Z",
-      "updatedAt": "2026-08-26T01:27:54.160Z"
     }
   },
   "dismissed": {
@@ -92,4 +65,5 @@
     "warp",
     "zed"
   ]
-}
+}ing skills from source: vercel-labs/skills
+Checking skills from source: upstash/context7
