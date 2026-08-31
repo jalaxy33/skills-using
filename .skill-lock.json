@@ -8,7 +8,7 @@
       "skillPath": "skills/find-skills/SKILL.md",
       "skillFolderHash": "76a98a285cb0434f3d39e1a873823556330e398b",
       "installedAt": "2026-05-14T10:30:01.905Z",
-      "updatedAt": "2026-07-13T03:28:06.590Z"
+      "updatedAt": "2026-08-31T03:42:22.448Z"
     },
     "edge-tts": {
       "source": "aahl/skills",
@@ -45,6 +45,15 @@
       "skillFolderHash": "fc6106f433803a95c49dfd8a7d1a2f09af30a772",
       "installedAt": "2026-08-05T06:31:37.992Z",
       "updatedAt": "2026-08-07T03:49:25.139Z"
+    },
+    "skill-creator": {
+      "source": "anthropics/claude-plugins-official",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/claude-plugins-official.git",
+      "skillPath": "plugins/skill-creator/skills/skill-creator/SKILL.md",
+      "skillFolderHash": "98a510d1cfef9f82c3b1eec200229ca68725e613",
+      "installedAt": "2026-08-31T03:43:40.850Z",
+      "updatedAt": "2026-08-31T03:43:40.850Z"
     }
   },
   "dismissed": {
@@ -65,5 +74,4 @@
     "warp",
     "zed"
   ]
-}ing skills from source: vercel-labs/skills
-Checking skills from source: upstash/context7
+}
