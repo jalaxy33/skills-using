@@ -24,9 +24,9 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/heygen-com/hyperframes.git",
       "skillPath": "skills/hyperframes/SKILL.md",
-      "skillFolderHash": "7142bea6c179e84bdf44597e0d5fafd8fee91747",
+      "skillFolderHash": "fc8a360f0b6e46d10a2bf62e3f82887d590abdd6",
       "installedAt": "2026-06-12T01:52:17.016Z",
-      "updatedAt": "2026-08-25T07:58:39.020Z"
+      "updatedAt": "2026-09-14T01:53:09.365Z"
     },
     "smart-search": {
       "source": "jackwener/opencli",
